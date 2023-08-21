@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485423147234",
+    "project_id": "abicompose",
+    "storage_bucket": "abicompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485423147234:android:bb41ed03959f9c5714d6bb",
+        "android_client_info": {
+          "package_name": "com.example.abicompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485423147234-ddjg4hmaurf95dk23s5s2cmehu55q7f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4nNMoOLY8JOfnk31uzAPgmex6dD0o_NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485423147234-ddjg4hmaurf95dk23s5s2cmehu55q7f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
